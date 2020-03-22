@@ -65,7 +65,7 @@ define({
       geographic: "Lengd/Breidd",
       locationTabText: "Staðsetning",
       locationPopupTitle: "Staðsetning",
-      submitButtonText: "Senda færslu",
+      submitButtonText: "Senda færsluna",
       submitButtonTextLoading: "Submitting&hellip;",
       formValidationMessageAlertText: "Eftirfaarandi svæði þarf að fylla út:",
       selectLocation: "Please select a location for your submission.",
