@@ -56,7 +56,7 @@ define({
       geoFormGeneralTabText: "${formSection} Skrá hugmynd/ábendingu",
       locationInformationText: "${formSection} Staðsetning",
       submitInformationText: "${formSection} Ljúka við skráningu",
-      submitInstructions: "Add this information to the map.",
+      submitInstructions: "",
       myLocationText: "Current Location",
       locationDescriptionForMoreThanOneOption: "Veljið staðsetningu með því að smella á kortið eða notið eftirfarandi valkosti.",
       locationDescriptionForOneOption: "Veljið staðsetningu með því að smella á kortið eða notið eftirfarandi valkosti.",
@@ -127,7 +127,7 @@ define({
       exceededFileCountError: "Exceeded maximum number of attachments allowed",
       selectFileTitle: "Select a file",
       btnSelectFileText: "Velja skrá",
-      btnViewSubmissions: "View Submissions"
+      btnViewSubmissions: "Skoða færslur"
     },
     builder: {
       gettingStarted: "Getting Started",
