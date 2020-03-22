@@ -126,7 +126,7 @@ define({
       fileTooLargeError: "File too large to attach",
       exceededFileCountError: "Exceeded maximum number of attachments allowed",
       selectFileTitle: "Select a file",
-      btnSelectFileText: "Select File",
+      btnSelectFileText: "Velja skrá",
       btnViewSubmissions: "View Submissions"
     },
     builder: {
