@@ -5,7 +5,7 @@ define({
     "appid": "",
     "webmap": "0c5cb13c4fc54b28bb26a125221ed96f",
     "form_layer": {
-        "id": "Samrad_Dalir_5043"
+        "id": "World_Imagery_2017"
     },
     "details": {
         "Title": "",
