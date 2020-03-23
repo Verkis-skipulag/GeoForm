@@ -265,7 +265,7 @@ define({
     viewer: {
       geocoderCancelText: "Cancel",
       viewMapTabText: "Map",
-      sortHeaderText: "Sort By:",
+      sortHeaderText: "Flokka eftir:",
       geocoderPlaceholderText: "Zip Code, city, etc.",
       noSearchResult: "No result found",
       legendTabTooltip: "Legend",
