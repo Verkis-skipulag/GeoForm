@@ -102,7 +102,7 @@ define({
       invalidUTM: "Please enter valid UTM coordinates.",
       invalidUSNG: "Please enter valid USNG coordinates.",
       invalidMGRS: "Please enter valid MGRS coordinates.",
-      geoformTitleText: "GeoForm",
+      geoformTitleText: "Aðalskipulag Dalabyggðar - hugmyndir inn í endurskoðun",
       domainDefaultText: "Select&hellip;",
       applyEditsFailedMessage: "A submission error occurred.",
       applyEditsFailedRobot: "Submission was rejected because it failed robot detection.",
