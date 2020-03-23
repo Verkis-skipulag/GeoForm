@@ -279,9 +279,9 @@ define({
       unavailableTitleText: "Untitled",
       unavailableConfigMessage: "Unable to load config",
       share: "Share",
-      viewReportsTabText: "Reports",
-      viewLegendTabText: "Legend",
-      viewAboutusTabText: "About",
+      viewReportsTabText: "Færslur",
+      viewLegendTabText: "Skýringar",
+      viewAboutusTabText: "Um",
       appLoadingFailedMessage: "There was an error loading the viewer"
     }
   }),
