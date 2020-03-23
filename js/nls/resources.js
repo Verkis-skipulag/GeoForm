@@ -87,7 +87,7 @@ define({
       backToTop: "Efst á síðu",
       addressSearchText: "Skráningin mun tengjast þessum punkti. Þú getur dregið pinnan til að leiðrétta staðsetningu.",
       shareModalFormText: "Hlekkur",
-      close: "Close",
+      close: "Loka",
       locationNotFound: "Staðsetning fannst ekki.",
       setLocation: "Valin staðsetning",
       find: "Finna stað",
