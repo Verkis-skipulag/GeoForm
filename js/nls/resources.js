@@ -269,7 +269,7 @@ define({
       geocoderPlaceholderText: "Zip Code, city, etc.",
       noSearchResult: "No result found",
       legendTabTooltip: "Legend",
-      aboutUsTabTooltip: "Vefsjá vegna endurskoðunar aðalskipulags. Hugmyndir og ábendingar íbúa og hagsmunaaðila.",
+      aboutUsTabTooltip: "Vefsjá vegna endurskoðunar aðalskipulags. Hugmyndir og ábendingar",
       mapTabTooltip: "Map",
       btnDescendingText: "Desc",
       btnAscendingText: "Asc",
