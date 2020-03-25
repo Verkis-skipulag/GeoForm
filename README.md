@@ -177,13 +177,13 @@ Use this text option to tell users what kind of file to attach.
         "enableAttachments": true,
         "attachmentIsRequired": true,
         "attachmentLabel": "Viðhengi",
-        "attachmentHelpText": ""
+        "attachmentHelpText": "Svo sem mynd eða pdf skal sem fylgir færslu en birtist ekki á korti. Athugið stærð skjals"
       },
       "Test_secured_geoform_9625": {
-        "enableAttachments": true,
-        "attachmentIsRequired": true,
-        "attachmentLabel": "",
-        "attachmentHelpText": ""
+        "enableAttachments": false,
+        "attachmentIsRequired": false,
+        "attachmentLabel": "Viðhengi",
+        "attachmentHelpText": "Svo sem mynd eða pdf skal sem fylgir færslu en birtist ekki á korti. Athugið stærð skjals"
       }
     }
 
