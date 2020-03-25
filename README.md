@@ -175,13 +175,13 @@ Use this text option to tell users what kind of file to attach.
     "attachmentInfo": {
       "GeoForm_Sample_3731": {
         "enableAttachments": true,
-        "attachmentIsRequired": false,
-        "attachmentLabel": "",
+        "attachmentIsRequired": true,
+        "attachmentLabel": "Viðhengi",
         "attachmentHelpText": ""
       },
       "Test_secured_geoform_9625": {
         "enableAttachments": true,
-        "attachmentIsRequired": false,
+        "attachmentIsRequired": true,
         "attachmentLabel": "",
         "attachmentHelpText": ""
       }
