@@ -112,7 +112,7 @@ define({
       error: "Error",
       textRangeHintMessage: "${openStrong}Hint:${closeStrong} Minimum value ${minValue} and Maximum value ${maxValue}",
       dateRangeHintMessage: "${openStrong}Hint:${closeStrong} Minimum Date ${minValue} and Maximum Date ${maxValue}",
-      remainingCharactersHintMessage: "${value} characters remaining",
+      remainingCharactersHintMessage: "${value} stafir eftir",
       mapFullScreen: "Full Screen",
       mapRestore: "Restore",
       filterSelectEmptyText: "Select",
