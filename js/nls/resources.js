@@ -85,7 +85,7 @@ define({
       findMyLocation: "Mín staðsetning",
       finding: "Locating&hellip;",
       backToTop: "Efst á síðu",
-      addressSearchText: "Skráningin mun tengjast þessum punkti. Þú getur dregið pinnan til að leiðrétta staðsetningu.",
+      addressSearchText: "Skráningin mun tengjast þessum punkti. Þú getur dregið pinnann til að leiðrétta staðsetningu.",
       shareModalFormText: "Hlekkur",
       close: "Loka",
       locationNotFound: "Staðsetning fannst ekki.",
